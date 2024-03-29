@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- <img src="https://raw.githubusercontent.com/iDamjan/iDamjan/main/test.svg" width="200px" height="200px" />
+ <img src="https://raw.githubusercontent.com/iDamjan/iDamjan/main/test.svg?url" width="200px" height="200px" />
 
 <!--
 **iDamjan/iDamjan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
