@@ -9,9 +9,9 @@
     <span class="side side4"></span>
     <span class="shadow"></span>
   </div>  
-</div>
 
-<style>
+
+  <style>
 .pyramid-loader {
   position: relative;
   width: 300px;
@@ -84,5 +84,8 @@
   filter: blur(12px);
 }
 </style>
+</div>
+
+
     </foreignObject>
 </svg>
