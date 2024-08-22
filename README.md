@@ -2,7 +2,8 @@
 
 ## I am Damjan
 
-## This is a test, lets get this finished
+## This is team 3 test 🎍 🇲🇰
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
