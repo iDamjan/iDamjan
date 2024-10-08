@@ -65,9 +65,8 @@ I specialize in bringing ideas to life through code, whether it's building sleek
   </a>
 </p>
 
-<p>
-  Feel free to reach out if you want to collaborate on a project, have a question, or just want to chat about tech!
-</p>
+## Feel free to reach out if you want to collaborate on a project, have a question, or just want to chat about tech!
+
 
 <div>
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300" alt="Coding Cat">
