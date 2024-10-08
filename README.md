@@ -1,8 +1,13 @@
-### Hi there 👋
-
-## I am Damjan
-
 <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" alt="Coding GIF">
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+👋;I'm+Damjan!&center=true&size=30">
+</h1>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="50px">
+</p>
 
 🚀 Software Engineer | 3D & WebGL enthusiast
 
