@@ -1,14 +1,15 @@
 <h1>
   <div style="display: flex; justify-content: center; align-items: center;">
     <div style="position: relative; display: inline-block;">
-      <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Waving Hand" style="position: absolute; top: -15px; left: 50%; transform: translateX(-50%);">
       <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!;I'm+Damjan!&size=30">
     </div>
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!;I'm+Damjan!&size=30">
   </div>
 </h1>
 
-🚀 Software Engineer | 3D & WebGL enthusiast
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=🚀+Software+Engineer;3D+%26+WebGL+enthusiast&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
+</h2>
 
 Hey there! I'm a passionate developer who loves crafting digital experiences that are both functional and fun. Here's a bit about what I do:
 
