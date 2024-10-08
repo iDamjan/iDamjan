@@ -9,7 +9,7 @@
 
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=iDamjan.iDamjan&color=00cf00)
 
-### 🚀 Software Engineer | 3D & WebGL Enthusiast
+## 🚀 Software Engineer | 3D & WebGL Enthusiast
 
 Hey there! I'm a passionate developer who loves crafting digital experiences that are both functional and fun. Here's a bit about what I do:
 
@@ -65,7 +65,7 @@ I specialize in bringing ideas to life through code, whether it's building sleek
   </a>
 </p>
 
-## Feel free to reach out if you want to collaborate on a project, have a question, or just want to chat about tech!
+### Feel free to reach out if you want to collaborate on a project, have a question, or just want to chat about tech!
 
 
 <div>
