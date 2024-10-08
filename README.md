@@ -7,6 +7,8 @@
   </div>
 </h1>
 
+![visitors](https://vbr.nathanchung.dev/badge?page_id=iDamjan.iDamjan&color=00cf00)
+
 <p style="font-family: 'Brush Script MT', cursive; font-size: 28px; color: #4a90e2; text-shadow: 2px 2px 4px rgba(0,0,0,0.1);">
   🚀 Software Engineer | 3D & WebGL Enthusiast
 </p>
@@ -45,12 +47,34 @@ Hey there! I'm a passionate developer who loves crafting digital experiences tha
 
 I specialize in bringing ideas to life through code, whether it's building sleek user interfaces, setting up robust backend systems, or creating mind-bending 3D web experiences. My goal? To make the web a more interesting and interactive place, one project at a time!
 
-When I'm not coding, you can find me exploring the latest web technologies, tinkering with 3D models, or dreaming up the next cool web experience.
+<h2> 🎮 Free time </h2>
+- I love to play the guitar
+- Extreme sports 
+- Traveling
+- Develop side projects and follow the latest trends in the tech industry
+
+<h2>📫 How to Reach Me</h2>
+
+<p>
+  <a href="https://linkedin.com/in/damjan-stojanovski-4b772520a/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:damjan.stojanovski123@example.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://github.com/iDamjan" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+</p>
+
+<p>
+  Feel free to reach out if you want to collaborate on a project, have a question, or just want to chat about tech!
+</p>
 
 <p>
   <span style="font-size: 24px; color: #add8e6; font-weight: bold;">Let's build something awesome together!</span>
 </p>
 
-<div align="center">
+<div>
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300" alt="Coding Cat">
 </div>
