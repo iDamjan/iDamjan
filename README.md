@@ -45,5 +45,5 @@ I specialize in bringing ideas to life through code, whether it's building sleek
 When I'm not coding, you can find me exploring the latest web technologies, tinkering with 3D models, or dreaming up the next cool web experience.
 
 <h2>
-  <span style="font-size: 24px; color: #FFA500; font-weight: bold;">Let's build something awesome together!</span>
+  <span style="font-size: 24px; color: #add8e6; font-weight: bold;">Let's build something awesome together!</span>
 </h2>
