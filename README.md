@@ -10,7 +10,7 @@
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=iDamjan.iDamjan&color=00cf00)
 
 <p style="font-family: 'Brush Script MT', cursive; font-size: 28px; color: #4a90e2; text-shadow: 2px 2px 4px rgba(0,0,0,0.1);">
-  🚀 Software Engineer | 3D & WebGL Enthusiast
+  ### 🚀 Software Engineer | 3D & WebGL Enthusiast
 </p>
 
 Hey there! I'm a passionate developer who loves crafting digital experiences that are both functional and fun. Here's a bit about what I do:
@@ -48,10 +48,10 @@ Hey there! I'm a passionate developer who loves crafting digital experiences tha
 I specialize in bringing ideas to life through code, whether it's building sleek user interfaces, setting up robust backend systems, or creating mind-bending 3D web experiences. My goal? To make the web a more interesting and interactive place, one project at a time!
 
 <h2> 🎮 Free time </h2>
-- I love to play the guitar
-- Extreme sports 
-- Traveling
-- Develop side projects and follow the latest trends in the tech industry
+• I love to play the guitar
+• Extreme sports 
+• Traveling
+• Develop side projects and follow the latest trends in the tech industry
 
 <h2>📫 How to Reach Me</h2>
 
@@ -69,10 +69,6 @@ I specialize in bringing ideas to life through code, whether it's building sleek
 
 <p>
   Feel free to reach out if you want to collaborate on a project, have a question, or just want to chat about tech!
-</p>
-
-<p>
-  <span style="font-size: 24px; color: #add8e6; font-weight: bold;">Let's build something awesome together!</span>
 </p>
 
 <div>
