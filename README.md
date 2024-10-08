@@ -45,11 +45,6 @@ Hey there! I'm a passionate developer who loves crafting digital experiences tha
 
 I specialize in bringing ideas to life through code, whether it's building sleek user interfaces, setting up robust backend systems, or creating mind-bending 3D web experiences. My goal? To make the web a more interesting and interactive place, one project at a time!
 
-<h2> 🎮 Free time </h2>
-• I love to play the guitar
-• Extreme sports 
-• Traveling
-• Develop side projects and follow the latest trends in the tech industry
 
 <h2>📫 How to Reach Me</h2>
 
