@@ -1,5 +1,3 @@
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" alt="Abstract Digital Concept GIF">
-
 <h1>
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!;I'm+Damjan!&size=30">
 </h1>
