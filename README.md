@@ -1,4 +1,6 @@
 <h1>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Waving Hand">
+
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!;I'm+Damjan!&size=30">
 </h1>
 
