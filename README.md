@@ -9,9 +9,7 @@
 
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=iDamjan.iDamjan&color=00cf00)
 
-<p style="font-family: 'Brush Script MT', cursive; font-size: 28px; color: #4a90e2; text-shadow: 2px 2px 4px rgba(0,0,0,0.1);">
-  ### 🚀 Software Engineer | 3D & WebGL Enthusiast
-</p>
+### 🚀 Software Engineer | 3D & WebGL Enthusiast
 
 Hey there! I'm a passionate developer who loves crafting digital experiences that are both functional and fun. Here's a bit about what I do:
 
