@@ -44,4 +44,12 @@ Hey there! I'm a passionate developer who loves crafting digital experiences tha
 
 I specialize in bringing ideas to life through code, whether it's building sleek user interfaces, setting up robust backend systems, or creating mind-bending 3D web experiences. My goal? To make the web a more interesting and interactive place, one project at a time!
 
-When I'm not coding, you can find me exploring the latest web technologies, tinkering with 3D models, or dreaming up the next cool web experience. Let's build something awesome together! 🚀✨
+When I'm not coding, you can find me exploring the latest web technologies, tinkering with 3D models, or dreaming up the next cool web experience.
+
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Let's+build+something+awesome+together!&size=24&color=FFA500">
+</h2>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200" alt="Rocket Launch Animation">
+</p>
