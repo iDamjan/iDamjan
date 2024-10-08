@@ -7,9 +7,9 @@
   </div>
 </h1>
 
-<h2 style="font-family: 'Brush Script MT', cursive; font-size: 28px; color: #4a90e2; text-shadow: 2px 2px 4px rgba(0,0,0,0.1);">
+<p style="font-family: 'Brush Script MT', cursive; font-size: 28px; color: #4a90e2; text-shadow: 2px 2px 4px rgba(0,0,0,0.1);">
   🚀 Software Engineer | 3D & WebGL Enthusiast
-</h2>
+</p>
 
 Hey there! I'm a passionate developer who loves crafting digital experiences that are both functional and fun. Here's a bit about what I do:
 
@@ -47,6 +47,10 @@ I specialize in bringing ideas to life through code, whether it's building sleek
 
 When I'm not coding, you can find me exploring the latest web technologies, tinkering with 3D models, or dreaming up the next cool web experience.
 
-<h2>
+<p>
   <span style="font-size: 24px; color: #add8e6; font-weight: bold;">Let's build something awesome together!</span>
-</h2>
+</p>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300" alt="Coding Cat">
+</div>
