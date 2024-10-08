@@ -1,12 +1,9 @@
 <h1>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Waving Hand">
-
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!;I'm+Damjan!&size=30">
+  <div style="display: flex; justify-content: center; align-items: center;">
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Waving Hand" style="margin-right: 10px;">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!;I'm+Damjan!&size=30">
+  </div>
 </h1>
-
-<p>
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="50px">
-</p>
 
 🚀 Software Engineer | 3D & WebGL enthusiast
 
