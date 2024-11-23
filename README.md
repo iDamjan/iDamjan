@@ -3,7 +3,6 @@
     <div style="position: relative; display: inline-block;">
       <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Waving Hand" style="position: absolute; top: -15px; left: 50%; transform: translateX(-50%);">
     </div>
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!;I'm+Damjan!&size=30">
   </div>
 </h1>
 
