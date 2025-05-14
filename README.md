@@ -1,14 +1,12 @@
 
   <div style="display: flex; justify-content: center; align-items: center;">
+    
+  Private github
     <div style="position: relative; display: inline-block;">
       <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Waving Hand" style="position: absolute; top: -15px; left: 50%; transform: translateX(-50%);">
     </div>
   </div>
 
-
-Private github
-
-![visitors](https://vbr.nathanchung.dev/badge?page_id=iDamjan.iDamjan&color=00cf00)
 
 ## 🚀 Software Engineer | 3D & WebGL Enthusiast
 
