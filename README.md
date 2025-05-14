@@ -33,6 +33,7 @@ Hey there! I'm a passionate developer who loves crafting digital experiences tha
       <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
       <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
       <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+      <img src="https://img.shields.io/badge/-Nest.js-47A248?style=flat-square&logo=nest.js&logoColor=white" alt="NestJS" />
     </td>
     <td align="center" width="50%"height="100%">
       <h3>🌟 3D Web Sorcery</h3>
